@@ -3,6 +3,8 @@
 This patch add support for Japanese language based on Master Thief v1.56 and only for players using JP-ESO.
 Apply this patch after original(Master Thief v1.56) addon.
 
+![](http://cdn-eso.mmoui.com/preview/pvw4910.png)
+
 ### [Japanese]
 
 このパッチはMaster Thiefの日本語化パッチです。Master Thief v1.56 の導入後にインストールしてください。
